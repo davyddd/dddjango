@@ -1,6 +1,5 @@
 from fabric.api import local
 
-
 SERVICE_NAME = 'dddjango'
 
 
